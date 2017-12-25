@@ -5,6 +5,7 @@ import java.util.Map;
 
 public class TwoSum {
     public static void main(String[] args) {
+       //GitHub测试
         int[] arr={3,2,4};
         int[] r=twoSum(arr,6);
         for (int i=0;i<r.length;i++){
